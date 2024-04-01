@@ -22,7 +22,7 @@ If you wish to cite this work, please use the following BibTeX:
 ```
 @ARTICLE{CED24,
   author={Cederberg, D.},
-  journal={Submitted to IEEE Transactions on Signal Processing}, 
+  journal={TODO}, 
   title={First-order methods for optimization over nonnegative trigonometric matrix polynomials}, 
   year={2024}
 }
