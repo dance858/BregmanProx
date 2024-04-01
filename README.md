@@ -11,7 +11,7 @@ we refer to our manuscript XXX.
 ## Guide to code
 There are essentially three main folders:
 1. The Bregman proximal operator and the two algorithms in the paper referred to as Bregman Douglas--Rachford and Improved interior gradient algorithm are implemented in the `algorithms` folder. 
-2. The results presented in Section 5.2 of the paper were produced using the code in the  `eucl_proj` folder.
+2. The results presented in Section 5.1 of the paper were produced using the code in the  `eucl_proj` folder.
 3. The results presented in Section 5.2 of the paper were produced using the code in the  `graphical_models` folder.
 
 If you have any questions, feel free to reach out.
